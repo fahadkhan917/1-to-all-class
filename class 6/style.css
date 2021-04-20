@@ -63,7 +63,7 @@ img{
 max-width: 1000px;
 } */
 
-
+/* 
 .main{
 
 border: 1px solid blue;
@@ -71,5 +71,30 @@ width: 300px;
 max-height: 300px;
 min-height: 200px;
 overflow: scroll
+
+} */
+
+/* .di{
+
+
+
+} */
+/* #di{
+
+border: 2px solid brown;
+background-color: burlywood;
+}
+
+p{
+
+border: 2px solid blanchedalmond;
+background-color: blueviolet;
+padding: 10px;
+margin: 10px;
+} */
+
+li{
+
+display: inline;
 
 }
