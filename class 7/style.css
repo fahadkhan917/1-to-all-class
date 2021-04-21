@@ -34,12 +34,19 @@ margin: 2px;
 font-size: 1em;
 }
 input:focus{
-background-color: brown;
+background-color: rgb(84, 73, 73);
 
 }
 
 button{
-    width: 50px;
-    margin: 0 auto;
+   
+    background-color: crimson;
+    border-radius: 5px;
+    color: darkgrey;
+    padding: 5px;  
+    margin:0em 5em;
 
+    
 }
+
+
