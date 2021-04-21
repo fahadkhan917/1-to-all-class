@@ -1,10 +1,45 @@
-table{
+/* table{
+width: 100px;
+margin:0 auto;
+border-spacing:2px 5px;
+} */
+
+/* tr.even{
+
+    background-color: cadetblue
+
+} */
+/* th,td{
+
+padding: 20px;
+border: 1px solid black;
+}
+
+tr:hover{ 
+
+    background-color: chocolate;
+} */
+
+
+
+form{
 width: 100px;
 margin:0 auto;
 
 }
-th{
+input{
 
-background-color: aqua;
+padding: 5px;
+margin: 2px;
+font-size: 1em;
+}
+input:focus{
+background-color: brown;
+
+}
+
+button{
+    width: 50px;
+    margin: 0 auto;
 
 }
