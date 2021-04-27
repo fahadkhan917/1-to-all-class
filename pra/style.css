@@ -8,10 +8,26 @@ line-height: 20em;
 
 } */
 
+/* p{ */
+
+/* letter-spacing: 1px; */
+/* width: 400px;
+margin: 0 auto; */
+/* vertical-align: text-top; */
+
+/* } */
+/* 
 p{
 
-letter-spacing: 1px;
-width: 400px;
-margin: 0 auto;
+background-color: aqua;
+text-indent: 100px;
 
-}
+} */
+
+
+/* p{
+
+background-color: brown;
+text-shadow: 1px 1px 1px burlywood;
+
+} */
