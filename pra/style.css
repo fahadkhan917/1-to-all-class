@@ -56,7 +56,7 @@ overflow: scroll;
 
 } */
 
-p{
+/* p{
 border: 1px solid black;
 margin:0px 0px 10px 50px;
 padding: 10px;
@@ -66,12 +66,20 @@ padding: 10px;
 
 #box{
 
-    border: 1px solid black;
+    border: 5px dotted black;
     height: 100px;
     width: 200px;
     margin: 0 auto;
-    
+   
     
     background-color: cyan;
+
+} */
+
+
+ul>li{
+margin: 5px;
+background-color: darkgray;
+display: inline;
 
 }
