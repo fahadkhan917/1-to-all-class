@@ -31,3 +31,29 @@ background-color: brown;
 text-shadow: 1px 1px 1px burlywood;
 
 } */
+
+/* p::first-letter{
+font-size: 200px;
+
+
+}
+p:hover{
+
+background-color: cadetblue;
+
+} */
+
+p{
+
+border: 1px solid black;
+
+}
+
+
+/* #box{
+
+    border: 1px solid black;
+    height: 200px;
+    width: 100px;
+
+} */
