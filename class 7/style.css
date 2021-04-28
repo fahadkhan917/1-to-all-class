@@ -91,7 +91,7 @@ right: 200px;
 
     } */
 
-    *{
+    /* *{
 
 font-family: sans-serif;
 
@@ -122,4 +122,45 @@ tr:hover{
 
 background-color: chocolate;
 
+} */
+
+/* 
+form{
+
+width: 500px;
+margin:100px auto;
+
 }
+
+input{
+
+padding: 5px;
+margin: 5px;
+
+} */
+
+/* input:focus{ */
+/* background-color: blue; */
+/* border-color: brown;
+} */
+
+body{
+
+background-color: thistle;
+
+}
+
+#black{
+background-color: black;
+width: 200px;
+height: 200px;
+display: inline-block;
+margin: 20px;
+}
+#white{
+    background-color:white;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px;
+    }
