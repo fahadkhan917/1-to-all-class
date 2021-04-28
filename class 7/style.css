@@ -144,7 +144,7 @@ margin: 5px;
 /* border-color: brown;
 } */
 
-body{
+/* body{
 
 background-color: thistle;
 
@@ -163,4 +163,31 @@ margin: 20px;
     height: 200px;
     display: inline-block;
     margin: 20px;
+    }
+
+
+    img{
+
+position: absolute;
+top: 10px;
+left: 150px;
+z-index: 1;
+
+    } */
+
+
+    .fir{
+
+background-color: blue;
+width: 400px;
+float: left;
+
+    }
+
+    .sec{
+
+ background-color: chocolate;
+ width: 200px;
+ float: left;
+
     }
