@@ -199,3 +199,15 @@ p{
 clear: both;
 
 } */
+body{
+background-color: cornflowerblue;
+
+}
+
+@media only screen and (max-width:1000px){
+body{
+background-color:red
+
+}
+
+}
