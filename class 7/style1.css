@@ -1,4 +1,4 @@
-body{
+/* body{
 
     background-color: darkcyan;
 }
@@ -27,4 +27,26 @@ body{
     opacity: 0.5;
     z-index: -1;
     
+} */
+
+
+.ph1{
+
+background-color: royalblue;
+width: 300px;
+float: left;
+
 }
+
+.ph2{
+
+    background-color:salmon;
+    width: 300px;
+    float: left;
+    }
+
+    p{
+
+clear: both;
+
+    }
