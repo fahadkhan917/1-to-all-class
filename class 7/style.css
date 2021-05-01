@@ -226,9 +226,10 @@ th,td{
 table{
 
     border:1px solid black;
+    empty-cells: hide;
 }
 
 table.one{
 
-    border-collapse: collapse;
+    border-spacing: 10px;
 }
