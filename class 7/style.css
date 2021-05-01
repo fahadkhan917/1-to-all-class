@@ -218,12 +218,12 @@ background-color:red
 } */
 
 
-th,td{
+/* th,td{
 
     border:2px solid black;
     /* border-spacing: 5px; */
 }
-table{
+/* table{
 
     border:1px solid black;
     empty-cells: hide;
@@ -232,4 +232,8 @@ table{
 table.one{
 
     border-spacing: 10px;
-}
+} */ 
+
+/* a{
+cursor: pointer;
+} */
