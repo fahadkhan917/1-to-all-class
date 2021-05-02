@@ -1,1 +1,28 @@
-alert("fahad")
+// alert("fahad")
+
+
+// var name="fahad";
+// alert(name)
+
+
+// var w=23;
+// document.write(w+7)
+
+
+// var a=5;
+// a++;
+// document.write(a)
+
+
+// var a=5;
+// a++;
+// document.write(a)
+
+// var a=5;
+// ++a
+// document.write(a)
+
+
+// var a=5;
+// var b=a+++a;
+// document.write(b)
