@@ -37,3 +37,19 @@
 
 // var a="fahad";
 // document.write(a+"khan")
+
+
+// var a=prompt("enter the name");
+// document.write("welcome"+a)
+
+
+// var a=prompt("enter the city");
+// if(a==="karachi"){
+
+// document.write("you are enter in a good city")
+
+// }
+// else{
+// document.write("sorry")
+
+// }
