@@ -53,3 +53,23 @@
 // document.write("sorry")
 
 // }
+
+
+
+// var a=5;
+// var b=5;
+// if(a===b){
+// document.write("its equal")
+
+// }
+// else{
+// document.write("not equal")
+
+// }
+
+
+// var a=["fahad","ali","khan"];
+// for(var i=0;i<a.length;i++){
+
+//     document.write(a[i])
+// }
