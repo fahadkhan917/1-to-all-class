@@ -85,3 +85,38 @@
 // var username=;
 // Declare a variable called myName & assign to it a string
 // that represents your Full Name.
+// var username="muhammad fahad khan";
+// Write script to
+// a) Declare a JS variable, titled message.
+// b) Assign “Hello World” to variable message
+// c) Display the message in alert box.
+
+
+// var mes="hello fahad";
+// alert(mes)
+
+
+// Write a script to save student’s bio data in JS variables and
+// show the data in alert boxes.
+
+// var names="fahad";
+// var age=15;
+// var course="mobile"
+// alert(names)
+// alert(age)
+// alert(course)
+
+// Write a script to display the following alert using one JS
+// variable:
+
+// var newLine = "\n"
+// alert("pizza"+newLine+"pizz")
+
+
+// Declare a variable called email and assign to it a string that
+// represents your Email Address(e.g. example@example.com).
+// Show the blow mentioned message in an alert box.(Hint: use
+// string concatenation)
+
+
+var email="fk16181@gmail.com"
