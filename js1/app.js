@@ -137,3 +137,14 @@
 
 
 // document.write("yah! I can write html")
+
+
+// chapter 3
+// variable for number
+
+// Declare a variable called age & assign to it your age. Show
+// your age in an alert box.
+
+
+// var age=15;
+// alert("I am"+age+"years old")
