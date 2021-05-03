@@ -119,4 +119,21 @@
 // string concatenation)
 
 
-var email="fk16181@gmail.com"
+// var email="fk16181@gmail.com"
+// alert("my email address is"+email)
+
+
+
+// Declare a variable called book & give it the value “A
+// smarter way to learn JavaScript”. Display the following
+// message in an alert box:
+
+// var mess="A smarter way to learn JavaScript"
+// alert("i am trying to learn"+ mess)
+
+
+
+// Write a script to display this in browser through JS
+
+
+// document.write("yah! I can write html")
