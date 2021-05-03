@@ -73,3 +73,15 @@
 
 //     document.write(a[i])
 // }
+
+
+// alert("welcome to js land+"/n+"happycoding")
+
+
+
+// chp2
+
+// Declare a variable called username.
+// var username=;
+// Declare a variable called myName & assign to it a string
+// that represents your Full Name.
