@@ -184,3 +184,21 @@
 // var title="tshirt"
 // var Quantity=5;
 // document.write(names+"ordered"+Quantity+title+"on xyz clothing store")
+
+
+// chapter4
+
+// Declare 3 variables in one statement.
+
+// var name,id,classs;
+
+// chapter 5
+// math expression
+
+// Write a program that take two numbers & add them in a
+// new variable. Show the result in your browser.
+
+// var num1=3;
+// var num2=5;
+// var ad=num1+num2;
+// document.write(ad)
