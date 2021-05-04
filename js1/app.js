@@ -202,3 +202,67 @@
 // var num2=5;
 // var ad=num1+num2;
 // document.write(ad)
+
+
+// Repeat task1 for subtraction, multiplication, division &
+// modulus.
+
+
+// var num1=3;
+// var num2=5;
+// var ad=num1+num2;
+// document.write("add"+ad)
+
+// var num1=7;
+// var num2=5;
+// var ad=num1-num2;
+// document.write("sub"+ad)
+
+// var num=8;
+// var num=5;
+// var ads=num*num;
+// document.write("mult"+ads)
+
+// var num1=3;
+// var num2=5;
+// var ad=num1/num2;
+// document.write("divd"+ad)
+
+
+
+// Do the following using JS Mathematic Expressions
+// a. Declare a variable.
+// b. Show the value of variable in your browser like “Value
+// after variable declaration is: ??”.
+// c. Initialize the variable with some number.
+// d. Show the value of variable in your browser like “Initial
+// value: 5”.
+// e. Increment the variable.
+// f. Show the value of variable in your browser like “Value
+// after increment is: 6”.
+// g. Add 7 to the variable.
+// h. Show the value of variable in your browser like “Value
+// MATH EXPRESSIONS | JAVASCRIPT
+// Page 2 of 9
+// after addition is: 13”.
+// i. Decrement the variable.
+// j. Show the value of variable in your browser like “Value
+// after decrement is: 12”.
+// k. Show the remainder after dividing the variable’s value
+// by 3.
+// l. Output : “The remainder is : 0”.
+
+
+
+// var nu=5;
+// document.write("value afer"+nu+"<br>")
+// nu++;
+// document.write("value afer"+nu+"<br>")
+// nu=nu+7;
+// document.write("value afer"+nu+"<br>")
+// nu--;
+// document.write("value afer"+nu+"<br>")
+// nu=nu%3;
+// document.write("value afer"+nu+"<br>")
+
+
