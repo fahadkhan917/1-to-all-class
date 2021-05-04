@@ -266,3 +266,32 @@
 // document.write("value afer"+nu+"<br>")
 
 
+
+// Cost of one movie ticket is 600 PKR. Write a script to
+// store
+// ticket price in a variable & calculate the cost of buying 5
+// tickets
+
+
+// var pr=600;
+// var val=pr*5;
+// document.write("total cost of 5 ticket"+val)
+
+
+
+// . Write a script to display multiplication table of any
+// number in your browser. E.g
+
+
+
+// var num=4;
+// document.write(num+"*"+"1"+"="+num*1+"<br>")
+// document.write(num+"*"+"2"+"="+num*2+"<br>")
+// document.write(num+"*"+"3"+"="+num*3+"<br>")
+// document.write(num+"*"+"4"+"="+num*4+"<br>")
+// document.write(num+"*"+"5"+"="+num*5+"<br>")
+// document.write(num+"*"+"6"+"="+num*6+"<br>")
+// document.write(num+"*"+"7"+"="+num*7+"<br>")
+// document.write(num+"*"+"8"+"="+num*8+"<br>")
+// document.write(num+"*"+"9"+"="+num*9+"<br>")
+// document.write(num+"*"+"10"+"="+num*10+"<br>")
