@@ -357,3 +357,78 @@
 // var mark_obt=804;
 // var per=mark_obt/total_mark*100;
 // document.write(per)
+
+
+// . Assume we have 10 US dollars & 25 Saudi Riyals. Write a
+// script to convert the total currency to Pakistani Rupees.
+// Perform all calculations in a single expression.
+// (Exchange rates : 1 US Dollar = 104.80 Pakistani Rupee
+// and 1 Saudi Riyal = 28 Pakistani Rupee)
+
+
+// var doll=10;
+// var sau=25;
+// var dolco=104*doll;
+// var sauco=28*25;
+// var tot=dolco+sauco
+// document.write(tot)
+
+
+
+
+// Write a program to initialize a variable with some
+// number and do arithmetic in following sequence:
+// a. Add 5
+// b. Multiply by 10
+// c. Divide the result by 2
+// Perform all calculations in a single expression
+
+
+
+// var nu=4;
+// nu=nu+5
+// document.write(nu+"<br>")
+// nu=nu*10;
+// document.write(nu+"<br>")
+// nu=nu/2
+// document.write(nu+"<br>")
+
+
+
+
+// The Age Calculator: Forgot how old someone is?
+// Calculate it!
+// a. Store the current year in a variable.
+// b. Store their birth year in a variable.
+// c. Calculate their 2 possible ages based on the stored
+// values.
+// Output them to the screen like so: “They are either NN or NN
+// years old”.
+
+
+
+// var curr=2021;
+// var birth=1994;
+// var age=curr-birth
+// document.write(age)
+
+
+
+// The Geometrizer: Calculate properties of a circle.
+// a. Store a radius into a variable.
+// MATH EXPRESSIONS | JAVASCRIPT
+// Page 8 of 9
+// b. Calculate the circumference based on the radius, and
+// output “The circumference is NN”.
+// (Hint : Circumference of a circle = 2 π r , π = 3.142)
+// Calculate the area based on the radius, and output “The
+// area is NN”. (Hint : Area of a circle = π r2, π = 3.142)
+
+// var radcir=20;
+// var cir=2*3.14*radcir;
+// var are=3.148*radcir*radcir
+// document.write(radcir+"<br>")
+// document.write(cir+"<br>")
+// document.write(are+"<br>")
+
+
