@@ -295,3 +295,65 @@
 // document.write(num+"*"+"8"+"="+num*8+"<br>")
 // document.write(num+"*"+"9"+"="+num*9+"<br>")
 // document.write(num+"*"+"10"+"="+num*10+"<br>")
+
+
+
+
+// The Temperature Converter: It’s hot out! Let’s make a
+// converter based on the steps here.
+// a. Store a Celsius temperature into a variable.
+// b. Convert it to Fahrenheit & output “NNoC is NNoF”.
+// c. Now store a Fahrenheit temperature into a variable.
+// d. Convert it to Celsius & output “NNoF is NNoC”.
+
+
+// var cel=25;
+// var fah=(cel*9/5)+32
+// document.write("celC is"+fah+"<br>")
+// var cel1=(fah-32)*5/9
+// document.write(fah+"C is"+cel1)
+
+
+
+// Write a program to implement checkout process of a
+// shopping cart system for an e-commerce website. Store
+// the following in variables
+// MATH EXPRESSIONS | JAVASCRIPT
+// Page 5 of 9
+// a. Price of item 1
+// b. Price of item 2
+// c. Ordered quantity of item 1
+// d. Ordered Quantity of item 2
+// e. Shipping charges
+// Compute the total cost & show the receipt in your browser
+
+
+// var price=650;
+// var price2=100;
+// var qu1=3;
+// var qu2=7;
+// var shchrge=100;
+// var total=(price*qu1)+(price2*qu2)+shchrge
+
+// document.write("price of item 1 is"+price+"<br>")
+// document.write("quantity of item 1 is"+qu1+"<br>")
+// document.write("price of item 2 is"+price2+"<br>")
+// document.write("price of item 2 is"+qu2+"<br>")
+// document.write("shipping charges"+shchrge+"<br>")
+
+// document.write("total cost of you order is"+total)
+
+
+
+
+
+// . Store total marks & marks obtained by a student in 2
+// variables. Compute the percentage & show the result in
+// your browser
+
+
+
+// var total_mark=980;
+// var mark_obt=804;
+// var per=mark_obt/total_mark*100;
+// document.write(per)
