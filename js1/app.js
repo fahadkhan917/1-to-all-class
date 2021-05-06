@@ -526,13 +526,23 @@
 
 
 
-var user=prompt("enter the number");
-if(user){
+// var user=prompt("enter the number");
+// if(user==5){
 
-for(var i=1;i<=10;i++){
-document.write(user+"*"+i+"="+user*i+"<br>")
+// for(var i=1;i<=10;i++){
+// document.write(user+"*"+i+"="+user*i+"<br>")
 
 
-}
+// }
+// }
 
-}
+
+// else if(user==''){
+
+// for(var i=0;i<=10;i++){
+
+//     document.write(5+"*"+i+"="+5*i+"<br>")
+
+// }
+
+// }
