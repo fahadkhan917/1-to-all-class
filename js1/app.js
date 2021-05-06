@@ -461,3 +461,78 @@
 
 
 
+
+// Write a program to take a number in a variable, do the
+// required arithmetic to display the following result in your
+// browser:
+
+
+
+// var a=10;
+// document.write("The value of a is"+a+"<br>")
+
+
+// ++a;
+// document.write("The value of a is"+a+"<br>")
+
+// a=a++;
+// document.write("The value of a is"+a+"<br>")
+
+// --a;
+// document.write("The value of a is"+a+"<br>")
+
+
+// a=a--;
+// document.write("The value of a is"+a+"<br>")
+
+
+
+// What will be the output in variables a, b & result after
+// execution of the following script:
+// var a = 2, b = 1;
+// var result = --a - --b + ++b + b--;
+// Explain the output at each stage:
+
+
+
+// var a=2;
+// var b=1;
+
+
+// --a;
+// --a - --b;
+// --a - --b + ++b;
+// --a - --b + ++b + b--;
+
+
+// document.write(a)
+// document.write(b)
+
+
+
+// Write a program that takes input a name from user &
+// greet the user.
+
+
+// var user=prompt("enter the username")
+// document.write(user)
+
+
+
+// Write a program to take input a number from user &
+// display it’s multiplication table on your browser. If user
+// does not enter a new number, multiplication table of 5
+// should be displayed by default.
+
+
+
+var user=prompt("enter the number");
+if(user){
+
+for(var i=1;i<=10;i++){
+document.write(user+"*"+i+"="+user*i+"<br>")
+
+
+}
+
+}
