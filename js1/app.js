@@ -546,3 +546,64 @@
 // }
 
 // }
+
+
+
+// Take
+// a) Take three subjects name from user and store them in 3
+// different variables.
+// b) Total marks for each subject is 100, store it in another
+// variable.
+// c) Take obtained marks for first subject from user and
+// stored it in different variable.
+// Take obtained marks for remaining 2 subjects from user
+// and store them in variables.
+// e) Now calculate total marks and percentage and show the
+// result in browser like this.(Hint: user table)
+
+
+// var sub1=prompt("enter gthe subject1 name")
+// var sub2=prompt("enter gthe subject2 name")
+// var sub3=prompt("enter gthe subject3 name")
+document.write("<table>");
+    var chemistry="chemistry";
+var math="math";
+var urdu="urdu";
+var totalMArk=100;
+var obtainedmark1=54;
+var obtainedmark2=54;
+var obtainedmark3=48;
+    document.write("<tr>");
+        document.write("<th>Subject</th>");
+        document.write("<th>Total Mark</th>"); 
+        document.write("<th>Obtained Marks</th>");
+        document.write("<th>Percentage</th>");
+        document.write("</tr>");
+        document.write("<tr>");
+            document.write("<td>"+chemistry+"</td>");  
+            document.write("<td>"+totalMArk+"</td>"); 
+            document.write("<td>"+obtainedmark1+"</td>"); 
+            document.write("<td>"+obtainedmark1/totalMArk*100+"%"+"</td>"); 
+            document.write("</tr>");    
+        
+            document.write("<tr>");
+            document.write("<td>"+math+"</td>");  
+            document.write("<td>"+totalMArk+"</td>");
+            document.write("<td>"+obtainedmark2+"</td>"); 
+            document.write("<td>"+obtainedmark2/totalMArk*100+"%"+"</td>");
+            document.write("</tr>");    
+            document.write("<tr>");
+            document.write("<td>"+urdu+"</td>");  
+            document.write("<td>"+totalMArk+"</td>");
+            document.write("<td>"+obtainedmark3+"</td>");
+            document.write("<td>"+obtainedmark3/totalMArk*100+"%"+"</td>");
+            document.write("</tr>");  
+            
+            document.write("<tr>");
+    document.write("<td></td>"); 
+    document.write("<td>"+(+totalMArk)+(+totalMArk)+(+totalMArk)+"</td>");
+    document.write("<td>"+obtainedmark1+obtainedmark2+obtainedmark3+"</td>");
+    document.write("<td>"+ +"</td>");
+            document.write("</tr>");  
+document.write("</table>");
+
