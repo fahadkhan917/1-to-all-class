@@ -565,45 +565,93 @@
 // var sub1=prompt("enter gthe subject1 name")
 // var sub2=prompt("enter gthe subject2 name")
 // var sub3=prompt("enter gthe subject3 name")
-document.write("<table>");
-    var chemistry="chemistry";
-var math="math";
-var urdu="urdu";
-var totalMArk=100;
-var obtainedmark1=54;
-var obtainedmark2=54;
-var obtainedmark3=48;
-    document.write("<tr>");
-        document.write("<th>Subject</th>");
-        document.write("<th>Total Mark</th>"); 
-        document.write("<th>Obtained Marks</th>");
-        document.write("<th>Percentage</th>");
-        document.write("</tr>");
-        document.write("<tr>");
-            document.write("<td>"+chemistry+"</td>");  
-            document.write("<td>"+totalMArk+"</td>"); 
-            document.write("<td>"+obtainedmark1+"</td>"); 
-            document.write("<td>"+obtainedmark1/totalMArk*100+"%"+"</td>"); 
-            document.write("</tr>");    
+// document.write("<table>");
+//     var chemistry="chemistry";
+// var math="math";
+// var urdu="urdu";
+// var totalMArk=100;
+// var obtainedmark1=54;
+// var obtainedmark2=54;
+// var obtainedmark3=48;
+//     document.write("<tr>");
+//         document.write("<th>Subject</th>");
+//         document.write("<th>Total Mark</th>"); 
+//         document.write("<th>Obtained Marks</th>");
+//         document.write("<th>Percentage</th>");
+//         document.write("</tr>");
+//         document.write("<tr>");
+//             document.write("<td>"+chemistry+"</td>");  
+//             document.write("<td>"+totalMArk+"</td>"); 
+//             document.write("<td>"+obtainedmark1+"</td>"); 
+//             document.write("<td>"+obtainedmark1/totalMArk*100+"%"+"</td>"); 
+//             document.write("</tr>");    
         
-            document.write("<tr>");
-            document.write("<td>"+math+"</td>");  
-            document.write("<td>"+totalMArk+"</td>");
-            document.write("<td>"+obtainedmark2+"</td>"); 
-            document.write("<td>"+obtainedmark2/totalMArk*100+"%"+"</td>");
-            document.write("</tr>");    
-            document.write("<tr>");
-            document.write("<td>"+urdu+"</td>");  
-            document.write("<td>"+totalMArk+"</td>");
-            document.write("<td>"+obtainedmark3+"</td>");
-            document.write("<td>"+obtainedmark3/totalMArk*100+"%"+"</td>");
-            document.write("</tr>");  
+//             document.write("<tr>");
+//             document.write("<td>"+math+"</td>");  
+//             document.write("<td>"+totalMArk+"</td>");
+//             document.write("<td>"+obtainedmark2+"</td>"); 
+//             document.write("<td>"+obtainedmark2/totalMArk*100+"%"+"</td>");
+//             document.write("</tr>");    
+//             document.write("<tr>");
+//             document.write("<td>"+urdu+"</td>");  
+//             document.write("<td>"+totalMArk+"</td>");
+//             document.write("<td>"+obtainedmark3+"</td>");
+//             document.write("<td>"+obtainedmark3/totalMArk*100+"%"+"</td>");
+//             document.write("</tr>");  
             
-            document.write("<tr>");
-    document.write("<td></td>"); 
-    document.write("<td>"+(+totalMArk)+(+totalMArk)+(+totalMArk)+"</td>");
-    document.write("<td>"+obtainedmark1+obtainedmark2+obtainedmark3+"</td>");
-    document.write("<td>"+ +"</td>");
-            document.write("</tr>");  
-document.write("</table>");
+//             document.write("<tr>");
+//     document.write("<td></td>"); 
+//     document.write("<td>"+(+totalMArk)+(+totalMArk)+(+totalMArk)+"</td>");
+//     document.write("<td>"+obtainedmark1+obtainedmark2+obtainedmark3+"</td>");
+//     document.write("<td>"+ +"</td>");
+//             document.write("</tr>");  
+// document.write("</table>");
+
+
+
+
+
+// chapter 11
+// Write a program to take “city” name as input from user. If 
+// user enters “Karachi”, welcome the user like this: 
+// “Welcome to city of lights”
+
+
+// var city=prompt("enter the city");
+// if(city=="karachi"){
+
+// document.write("welcome to city of light")
+
+// }
+
+
+
+// . Write a program to take “gender” as input from user. If the
+// user is male, give the message: Good Morning Sir. If the
+// user is female, give the message: Good Morning Ma’am.
+
+
+
+// var user=prompt("enter the gender")
+// if(user=="male"){
+
+// document.write("good morning sir")
+
+// }
+
+// else if(user=="female"){
+
+// document.write("good morning maam")
+
+// }
+
+
+
+// Write a program to take input color of road traffic signal
+// from the user & show the message according to this table:
+
+
+
+
+
 
