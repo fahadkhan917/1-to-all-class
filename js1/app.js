@@ -651,7 +651,25 @@
 // from the user & show the message according to this table:
 
 
+var user=prompt("enter plz")
+if(user=="red"){
+document.write("must stop")
+
+}
+else if(user=="yellow"){
+    document.write("ready to move")
+    
+    }
+   else if(user=="green"){
+        document.write("move now")
+        
+        }
 
 
 
+else{
+
+document.write("sorry")
+
+}
 
