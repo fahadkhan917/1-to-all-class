@@ -784,3 +784,86 @@
 //     document.write("sorry")
 // }
 
+
+
+// Guess game:
+// Store a secret number (ranging from 1 to 10) in a variable.
+// Prompt user to guess the secret number.
+// a. If user guesses the same number, show “Bingo! Correct
+// answer”.
+// b. If the guessed number +1 is the secret number, show
+// “Close enough to the correct answer”.
+
+
+// var user=prompt("enter the secret number")
+// var num=4;
+// if(user==num){
+// document.write("bingo!correct answer")
+
+// }
+// else  if(++user==num){
+
+//     document.write("close")
+// }
+
+
+// Write a program to check whether the given number is
+// divisible by 3. Show the message to the user if the number
+// is divisible by 3
+
+
+// var user=prompt("enter the number")
+// if(user%3==0){
+// document.write("it divide by 3")
+
+// }
+// else{
+
+//     document.write("sorry")
+// }
+
+
+// Write a program that checks whether the given input is an
+// even number or an odd number.
+
+// var user=prompt("enter the user")
+// if(user%2==0){
+
+//     document.write("even")
+// }
+// else{
+// document.write("odd")
+
+// }
+
+
+// Write a program that takes temperature as input and
+// shows a message based on following criteria
+// a. T > 40 then “It is too hot outside.”
+// b. T > 30 then “The Weather today is Normal.”
+// c. T > 20 then “Today’s Weather is cool.”
+// d. T > 10 then “OMG! Today’s weather is so Cool.”
+
+
+// var user=prompt("enter the temp")
+// if(user>40){
+
+// document.write("it is to hot outside")
+
+// }
+// else if(user>30){
+
+//     document.write("The weather today is normal")
+    
+// }    
+// else if(user>20){
+
+//     document.write("Oday weather is cool")
+    
+// }   
+
+// else if(user>10){
+
+//     document.write("todday weaher is cool")
+    
+// }   
