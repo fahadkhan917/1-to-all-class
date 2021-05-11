@@ -736,3 +736,51 @@
 // if("car" < "cat"){
 //     alert("car is smaller than cat");
 //     }
+
+
+
+// Write a program to take input the marks obtained in three
+// subjects & total marks. Compute & show the resulting
+// percentage on your page. Take percentage & compute
+// grade as per following table
+
+
+// var mark_obt=prompt("enter the marks obt");
+// var total_mark=prompt("enter the total marks");
+// var per=mark_obt/total_mark*100;
+// if(per>80){
+
+//     document.write("A-one")
+// }
+// else if(per>70){
+
+//     document.write("A")
+// }
+
+// else if(per>60){
+
+//     document.write("B")
+// }
+// else if(per<60){
+
+//     document.write("fail")
+// }
+
+// if(per>80){
+
+//     document.write("Excellent")
+// }
+// else if(per>70){
+
+//     document.write("Good")
+// }
+
+// else if(per<60){
+
+//     document.write("You need to improve")
+// }
+// else if(per>60){
+
+//     document.write("sorry")
+// }
+
