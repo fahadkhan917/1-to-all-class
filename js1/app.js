@@ -867,3 +867,35 @@
 //     document.write("todday weaher is cool")
     
 // }   
+
+
+// Write a program to create a calculator for +,-,*, / & %
+// using if statements. Take the following input:
+
+
+// var fir=+prompt("enter the first number")
+// var sec=+prompt("enter the second number")
+// var opr=prompt("enter the operation")
+// if(opr=='+'){
+//     document.write(fir+sec)
+// }
+// else if(opr=='-'){
+//     document.write(fir-sec)
+// }
+// else if(opr=='*'){
+//     document.write(fir*sec)
+// }
+// else if(opr=='/'){
+//     document.write(fir/sec)
+// }
+
+
+// Write a program that takes a character (number or string)
+// in a variable & checks whether the given input is a
+// number, uppercase letter or lower case letter. (Hint: ASCII
+// codes:- A=65, Z=90, a=97, z=122).
+
+
+
+var user=prompt("enter the character")
+if(user.charAt())
