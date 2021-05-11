@@ -651,25 +651,56 @@
 // from the user & show the message according to this table:
 
 
-var user=prompt("enter plz")
-if(user=="red"){
-document.write("must stop")
+// var user=prompt("enter plz")
+// if(user=="red"){
+// document.write("must stop")
 
-}
-else if(user=="yellow"){
-    document.write("ready to move")
+// }
+// else if(user=="yellow"){
+//     document.write("ready to move")
     
-    }
-   else if(user=="green"){
-        document.write("move now")
+//     }
+//    else if(user=="green"){
+//         document.write("move now")
         
-        }
+//         }
 
 
 
-else{
+// else{
 
-document.write("sorry")
+// document.write("sorry")
 
-}
+// }
 
+
+// Write a program to take input remaining fuel in car (in
+//     litres) from user. If the current fuel is less than 0.25litres,
+//     show the message “Please refill the fuel in your car”
+    
+// var user=prompt("enter the fuel");
+// if(user<0.25){
+
+// document.write("please refill the fuel")
+
+// }
+
+
+// Run this script, & check whether alert message would be
+// displayed or not. Record the outputs.
+
+// var a = 4;
+// if (++a === 5){
+// alert("given condition for variable a is true");
+// }
+
+// var b = 82;
+// if (b++ === 83){
+// alert("given condition for variable b is true");
+// }
+
+
+// var c = 12;
+// if (c++ === 13){
+// alert("condition 1 is true");
+// }
