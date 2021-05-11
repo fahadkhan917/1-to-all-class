@@ -897,5 +897,33 @@
 
 
 
-var user=prompt("enter the character")
-if(user.charAt())
+
+
+// var char=prompt("enter the number or string");
+// if(char.charCodeAt(0)>=65 && char.charCodeAt(0)<=90){
+// document.write("Upper Case");
+// }
+// else if(char.charCodeAt(0)>=97 && char.charCodeAt(0)<=122){
+// document.write("lowercase");
+// }
+// else{
+// document.write("sorry");
+// }
+
+
+
+// Write a JavaScript program that accept two integers and
+// display the larger. Also show if the two integers are equal.
+
+
+// var num1=+prompt("enter the first number");
+// var num2=+prompt("enter the Second number");
+// if(num1>num2){
+// document.write("number 1 is greater than number2");
+// }
+// else if(num1<num2){
+// document.write("number 2 is greater than number1");
+// }
+// else if(num1===num2){
+// document.write("number 1 and number2 both equal");
+// }
