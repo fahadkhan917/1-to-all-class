@@ -927,3 +927,55 @@
 // else if(num1===num2){
 // document.write("number 1 and number2 both equal");
 // }
+
+
+
+
+// Write a program that takes input a number from user &
+// state whether the number is positive, negative or zero.
+
+
+// var user=prompt("enter the user");
+// if(user>0){
+
+// document.write("postive")
+
+// }
+// else if(user<0){
+
+//     document.write("negative")
+
+// }
+
+
+
+// Write a program that takes a character (i.e. string of
+//     length 1) and returns true if it is a vowel, false otherwise
+
+
+// var user=prompt("enter the user")
+// if(user.charCodeAt(0)==65){
+
+// document.write("a")
+
+// }
+// else if(user.charCodeAt(0)==69){
+
+//     document.write("e")
+    
+//     }
+//   else if(user.charCodeAt(0)==73){
+
+//         document.write("I")
+        
+//         }
+//        else if(user.charCodeAt(0)==79){
+
+//             document.write("o")
+            
+//             }
+//             if(user.charCodeAt(0)==85){
+
+//                 document.write("u")
+                
+//                 }
