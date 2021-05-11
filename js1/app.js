@@ -1008,3 +1008,23 @@
 // document.write("please enter your password")
 
 // }
+
+
+// This if/else statement does not work. Try to fix it:
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// else{
+// greeting = "Good evening";
+// }
+
+
+
+// Write a program that takes time as input from user in 24
+// hours clock format like: 1900 = 7pm. Implement the
+// following case using if, else & else if statements
+
+
+// var hour=prompt("enter the user")
