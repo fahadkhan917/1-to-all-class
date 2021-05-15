@@ -1028,3 +1028,66 @@
 
 
 // var hour=prompt("enter the user")
+// if(hour==13){
+
+// document.write("1")
+
+// }
+// else if(hour==14){
+
+//     document.write("2")
+    
+//     }
+//     else if(hour==15){
+
+//         document.write("3")
+        
+//         }
+//         else if(hour==16){
+
+//             document.write("4")
+            
+//             }
+//             else if(hour==17){
+
+//                 document.write("5")
+                
+//                 }
+//                 else if(hour==18){
+
+//                     document.write("6")
+                    
+//                     }
+//                     else if(hour==19){
+
+//                         document.write("7")
+                        
+//                         }
+//                         else if(hour==20){
+
+//                             document.write("8")
+                            
+//                             }
+//                             else if(hour==21){
+
+//                                 document.write("9")
+                                
+//                                 }
+//                                 else if(hour==22){
+
+//                                     document.write("10")
+                                    
+//                                     }
+//                                     else if(hour==23){
+
+//                                         document.write("11")
+                                        
+//                                         }
+//                                         else if(hour==24){
+
+//                                             document.write("12")
+                                            
+//                                             }
+
+
+
