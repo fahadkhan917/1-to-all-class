@@ -1143,3 +1143,16 @@
 // document.write(qu[5]+"<br>")
 // document.write(qu[6]+"<br>")
 // document.write(qu[7]+"<br>")
+
+// Write a program to store 3 student names in an array.Take
+// another array to store score of these three students.
+// Assume that total marks are 500 for each student, display
+// the scores & percentages of students like:
+
+
+// var stu=["fahad","ali","umer"];
+// var sc=[320,230,480]
+// var tot=500;
+// document.write("Score of"+stu[0]+"is"+sc[0]+". Percentage:"+sc[0]/tot*100+"<br>")
+// document.write("Score of"+stu[1]+"is"+sc[1]+". Percentage:"+sc[1]/tot*100+"<br>")
+// document.write("Score of"+stu[2]+"is"+sc[2]+". Percentage:"+sc[2]/tot*100+"<br>")
