@@ -1091,3 +1091,38 @@
 
 
 
+
+
+// chapter 13-15
+
+// Declare an empty array using JS literal notation to store
+// student names in future.
+
+// var stu=[];
+
+
+// Declare an empty array using JS object notation to store
+// student names in future
+
+// var stu=new Array();
+
+
+
+// Declare and initialize a strings array.
+
+// var st=["fahad","ali","asher","owais"]
+
+
+// Declare and initialize a numbers array
+
+// var nu=[1,2,3,4,5,6]
+
+
+// Declare and initialize a boolean array.
+
+// var bool=["true","false"]
+
+
+// Declare and initialize a mixed array.
+
+// var mix=["fahad","ali",1,7];
