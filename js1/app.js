@@ -1126,3 +1126,20 @@
 // Declare and initialize a mixed array.
 
 // var mix=["fahad","ali",1,7];
+
+
+// . Declare and Initialize an array and store available
+// education qualifications in Pakistan (e.g. SSC, HSC, BCS,
+//     BS, BCOM, MS, M. Phil., PhD). Show the listed
+//     qualifications in your browser like:
+
+
+// var qu=["SSC","HSC","BCS","BS","BCOM","MS","M.PHIL","PHD"]
+// document.write(qu[0]+"<br>")
+// document.write(qu[1]+"<br>")
+// document.write(qu[2]+"<br>")
+// document.write(qu[3]+"<br>")
+// document.write(qu[4]+"<br>")
+// document.write(qu[5]+"<br>")
+// document.write(qu[6]+"<br>")
+// document.write(qu[7]+"<br>")
