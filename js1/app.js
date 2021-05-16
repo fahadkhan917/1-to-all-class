@@ -1185,9 +1185,20 @@
 
 var colo=["red","green","blue"]
 document.write(colo+"<br>");
-var nead=prompt("enter the user")
-colo.unshift(nead)
-document.write(colo+"<br>")
-var nead1=prompt("enter the user")
-colo.push(nead1)
-document.write(colo+"<br>")
+// var nead=prompt("enter the user")
+// colo.unshift(nead)
+// document.write(colo+"<br>")
+// var nead1=prompt("enter the user")
+// colo.push(nead1)
+// document.write(colo+"<br>")
+// var User = prompt("Enter 3rd Value");
+// colo.unshift(User);
+// document.write(colo+"<br>")
+// var User = prompt("Enter 4th Value");
+// colo.unshift(User);
+// document.write(colo+"<br>")
+// colo.shift();
+// document.write(colo)
+
+// colo.pop();
+// document.write(colo);
