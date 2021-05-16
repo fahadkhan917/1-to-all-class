@@ -1183,7 +1183,7 @@
 // position/index. . Display the updated array in your
 // browser.
 
-var colo=["red","green","blue"]
+var colo=["red","green","blue","purple","yellow","maroon"]
 document.write(colo+"<br>");
 // var nead=prompt("enter the user")
 // colo.unshift(nead)
@@ -1202,3 +1202,14 @@ document.write(colo+"<br>");
 
 // colo.pop();
 // document.write(colo);
+// var user=prompt("enter the user where he want to add color")
+// var color=prompt("enter the color")
+// colo.splice(user,0,color);
+// document.write(colo)
+
+
+var str=prompt("enter the user")
+var end=prompt("enter the user")
+colo.splice(str,end);
+document.write(colo)
+
