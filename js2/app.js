@@ -11,5 +11,15 @@
 // Copy 3 array elements from cities array to selectedCities
 // array
 
-var city=["karachi","lahore","Islamabad","Quetta","Peshawar"];
-document.write(city)
+// var city=["karachi","lahore","Islamabad","Quetta","Peshawar"];
+// document.write(city+"<br>")
+// var newcity=city.slice(2,4);
+// document.write(newcity)
+
+// Write a program to create a single string from the
+// below mentioned array:
+
+// var arr=["this","is","my","cat"];
+// document.write(arr+"<br>")
+// var a=arr.join('*');
+// document.write(a)
