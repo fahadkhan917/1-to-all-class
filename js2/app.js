@@ -69,3 +69,37 @@
 
 // var ph=["apple","samsung","motorola","nokia","haier"];
 // document.write("<select><option>"+ph[1]+"</option></select>")
+
+
+
+
+// Declare and initialize a multidimensional array
+// representing the following matrix:
+
+
+// var activities = [];
+
+
+// var activities = [
+//     [0,1,2,3],
+//     [1,0,1,2],
+//     [2,1,0,1],
+  
+// ];
+
+// for(var i=0;i<activities.length;i++){
+
+// document.write(activities[i].join(' ')+"<br>")
+
+// }
+
+
+// Write a program to print numeric counting from 1 to 10.
+
+
+
+// for(var i=0;i<=10;i++){
+
+
+//     document.write(i+"<br>")
+// }
