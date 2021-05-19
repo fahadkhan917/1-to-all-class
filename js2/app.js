@@ -103,3 +103,35 @@
 
 //     document.write(i+"<br>")
 // }
+
+
+
+// Write a program to print multiplication table of any
+// number using for loop. Table number & length should be
+// taken as an input from user
+
+
+// var user=prompt("enter the number")
+// var len=prompt("enter the lenght")
+// for(var i=1;i<=len;i++){
+
+// document.write(user+"*"+i+"="+user*i+"<br>")
+
+// }
+
+
+// Write a program to print items of the following array
+// using for loop:
+// fruits = [“apple”, “banana”, “mango”, “orange”,
+// “strawberry”]
+
+var fruits=["apple", "banana","mango","orange","strawberry"]
+for(var i=0;i<fruits.length;i++){
+
+document.write("Element at index"+fruits.indexOf(fruits[i])+"is"+fruits[i])
+
+
+}
+    
+
+
