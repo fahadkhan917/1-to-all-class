@@ -23,3 +23,49 @@
 // document.write(arr+"<br>")
 // var a=arr.join('*');
 // document.write(a)
+
+
+// Create a new array. Store values one by one in such a way
+// that you can access the values in the order in which they
+// were stored. (FIFO-First In First Out)
+
+// var arr=["keyborad","mouse","printer","monitor"];
+// document.write(arr+"<br>")
+
+// arr.shift();
+// document.write(arr+"<br>")
+// arr.shift();
+// document.write(arr+"<br>")
+// arr.shift();
+// document.write(arr+"<br>")
+// arr.shift();
+// document.write(arr+"<br>")
+
+
+
+// Create a new array. Store values one by one in such a way
+// that you can access the values in reverse order. (Last InFirst Out)
+
+
+// var arr=["keyborad","mouse","printer","monitor"];
+// document.write(arr+"<br>")
+
+// arr.pop();
+// document.write(arr+"<br>")
+// arr.pop();
+// document.write(arr+"<br>")
+// arr.pop();
+// document.write(arr+"<br>")
+// arr.pop();
+// document.write(arr+"<br>")
+
+
+
+// Write a program to store phone manufacturers (Apple,
+//     Samsung, Motorola, Nokia, Sony & Haier) in an array.
+//     Display the following dropdown/select menu in your
+//     browser using document.write() method:
+
+
+// var ph=["apple","samsung","motorola","nokia","haier"];
+// document.write("<select><option>"+ph[1]+"</option></select>")
