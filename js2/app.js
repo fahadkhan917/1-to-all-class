@@ -125,13 +125,15 @@
 // fruits = [“apple”, “banana”, “mango”, “orange”,
 // “strawberry”]
 
-var fruits=["apple", "banana","mango","orange","strawberry"]
-for(var i=0;i<fruits.length;i++){
+// var fruits=["apple", "banana","mango","orange","strawberry"]
+// for(var i=0;i<fruits.length;i++){
 
-document.write("Element at index"+fruits.indexOf(fruits[i])+"is"+fruits[i])
+// document.write("Element at index"+fruits.indexOf(fruits[i])+"is"+fruits[i]+"<br>")
 
 
-}
+// }
     
 
 
+Generate the following series in your browser. See
+example output.
