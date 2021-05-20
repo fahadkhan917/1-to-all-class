@@ -135,5 +135,45 @@
     
 
 
-Generate the following series in your browser. See
-example output.
+// Generate the following series in your browser. See
+// example output.
+
+
+// for(var i=0;i<=15;i++){
+
+//     document.write(i)
+
+// }
+
+// for(var i=10;i>=1;i--){
+
+//     document.write(i)
+
+// }
+
+// for(var i=0;i<=20;i++){
+// if(i%2==0){
+//     document.write(i)
+// }
+// }
+
+// for(var i=0;i<=20;i++){
+//     if(i%2==1){
+//         document.write(i)
+//     }
+//     }
+
+
+
+// You have an array
+// A = [“cake”, “apple pie”, “cookie”, “chips”, “patties”]
+// Write a program to enable “search by user input” in an
+// array.
+// After searching, prompt the user whether the given item is
+// found in the list or not. Example:
+
+
+
+
+
+A = ["cake", "apple pie", "cookie", "chips", "patties"]
