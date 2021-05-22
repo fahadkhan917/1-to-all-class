@@ -175,5 +175,32 @@
 
 
 
+// var user=prompt("enter the user")
+// var a= ["cake", "apple pie", "cookie", "chips", "patties"]
+// for(var i=0;i<a.length;i++){
+// if(user==a[i]){
 
-A = ["cake", "apple pie", "cookie", "chips", "patties"]
+// document.write("yes"+a[i].indexOf(user[i]))
+// }
+
+
+// }
+
+
+
+// Write a program to identify the largest number in the
+// given array.
+// A = [24, 53, 78, 91, 12].
+
+
+var a=[24,53,78,91,12]
+var len='';
+for(var i=0;i<a.length;i++){
+a[i]=len;
+if(len<a[i]){
+
+document.write("yes")
+
+}
+document.write(len)
+   }
