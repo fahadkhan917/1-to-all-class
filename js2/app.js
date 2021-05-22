@@ -190,32 +190,40 @@
 
 // Write a program to identify the largest number in the
 // given array.
-// A = [24, 53, 78, 91, 12].
+//
 
-
-// var a=[24,53,78,91,12]
-// var len=0;
+// var a=[24,78,98,65,55]
+// var len=a[0];
 // for(var i=0;i<a.length;i++){
-
 // if(a[i]>len){
 // len=a[i]
-// // document.write("yes")
+
 
 // }
+
+
+
+// }
+
 // document.write(len)
-//    }
 
 
-var a=[24,53,78,91,12];
-var largest= 0
-for(var i=0;i<a.length;i++){
-if(a[i]>largest){
-  largest=a[i];
-}
+// Write a program to identify the smallest number in the
+// given array.
+// A = [24, 53, 78, 91, 12]
 
-}
+// var a = [24, 53, 78, 91, 12]
+// var len=a[0];
+// for(var i=0;i<a.length;i++){
+// if(a[i]<len){
+// len=a[i]
 
-document.write(largest);
+
+// }
 
 
+
+// }
+
+// document.write(len)
 
