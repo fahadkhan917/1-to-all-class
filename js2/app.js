@@ -193,14 +193,26 @@
 // A = [24, 53, 78, 91, 12].
 
 
-var a=[24,53,78,91,12]
-var len='';
-for(var i=0;i<a.length;i++){
-a[i]=len;
-if(len<a[i]){
+// var a=[24,53,78,91,12]
+// var len=0;
+// for(var i=0;i<a.length;i++){
 
-document.write("yes")
+// if(a[i]>len){
+// len=a[i]
+// // document.write("yes")
 
-}
-document.write(len)
+// }
+// document.write(len)
+//    }
+
+
+   var a=[24,53,78,91,12];
+   var largest=a[0]
+   for(var i=0;i<length;i++){
+  if(a[i]<largest){
+     largest=a[i];
+  }
+   
    }
+   
+   document.write(largest);
