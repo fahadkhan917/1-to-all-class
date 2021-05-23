@@ -277,3 +277,79 @@
 
 // var word="hellow world";
 // document.write(word.lastIndexOf('l'))
+
+
+// Write a program to find the character at 3rd index in the
+// word “Pakistani” and display the result in your browser.
+
+// var wo="pakistani"
+// document.write(wo.charAt(3))
+
+
+
+// 6. Repeat Q1 using string concat() method.
+
+// var fi=prompt("enter the first name")
+// var sec=prompt("enter the second name")
+// var full=fi.concat(sec);
+// document.write(full)
+
+
+// Write a program to replace the “Hyder” to “Islam” in the
+// word “Hyderabad” and display the result in your browser.
+
+
+// var word="hyderabad";
+// var rep=word.replace('hyder','islam')
+// document.write(rep)
+
+
+
+// Write a program to replace all occurrences of “and” in the
+// string with “&” and display the result in your browser.
+
+
+
+// var message = "Ali and Sami are best friends. They play cricket and football together.";
+// var rep=message.replace(/and/g,'&')
+// document.write(rep)
+
+
+
+//  Write a program that converts a string “472” to a number
+// 472. Display the values & types in your browser.
+
+
+// var nu="472"
+// document.write(nu)
+// var con=nu.toString();
+// document.write(con)
+
+
+// Write a program that takes user input. Convert and
+// show the input in capital letters.
+
+
+// var word="PEANUTS"
+// document.write(word.toLowerCase())
+
+// Write a program that takes user input. Convert and
+// show the input in title case.
+
+
+// var word="javascript"
+// var fiwo=word[0].toUpperCase();
+// var sewo=word.slice(1)
+// var fi=fiwo+sewo
+// document.write(fi)
+
+
+// Write a program that converts the variable num to
+// string.
+// var num = 35.36 ;
+// Remove the dot to display “3536” display in your browser.
+
+// var num = 35.36 ;
+// var re=num.toString()
+// var la=re.replace('.','')
+// document.write(la)
