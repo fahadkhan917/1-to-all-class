@@ -237,3 +237,43 @@
 // document.write(i)
 
 // }
+
+
+
+// Write a program that takes two user inputs for first and
+// last name using prompt and merge them in a new variable
+// titled fullName. Greet the user using his full name.
+
+
+
+// var fir=prompt("enter the first name")
+// var sec=prompt("enter the last name")
+// var full=fir+sec;
+// document.write(full)
+
+
+// Write a program to take a user input about his favorite
+// mobile phone model. Find and display the length of user
+// input in your browser
+
+
+// var user=prompt("enter the user")
+// document.write(user+"<br>")
+// document.write(user.length)
+
+
+// Write a program to find the index of letter “n” in the word
+// “Pakistani” and display the result in your browser .
+
+
+// var word="paksistani";
+// document.write(word.indexOf('n'))
+
+
+
+// Write a program to find the last index of letter “l” in the
+// word “Hello World” and display the result in your browser
+
+
+// var word="hellow world";
+// document.write(word.lastIndexOf('l'))
