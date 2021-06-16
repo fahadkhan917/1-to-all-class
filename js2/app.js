@@ -353,3 +353,44 @@
 // var re=num.toString()
 // var la=re.replace('.','')
 // document.write(la)
+
+
+
+// Write a program to take user input and store username
+// in a variable. If the username contains any special symbol
+// among [@ . , !], prompt the user to enter a valid username.
+// For character codes of [@ .
+
+
+// var user=prompt("enter the user")
+// for(var i=0;i<user.length;i++){
+// if(user.charCodeAt(i)==33||user.charCodeAt(i)==44||user.charCodeAt(i)==46||user.charCodeAt(i)==64){
+
+// document.write("welcome")
+
+// }
+
+
+// }
+
+
+// You have an array
+// A = [cake”, “apple pie”, “cookie”, “chips”, “patties”]
+// Write a program to enable “search by user input” in an
+// array. After searching, prompt the user whether the given
+// item is found in the list or not.
+// Note: Perform case insensitive search. Whether the user
+// enters cookie, Cookie, COOKIE or coOkIE, program
+// should inform about its availability. Example:
+
+// var user=prompt("enter the value")
+// var a=["cake", "apple pie","cookie", "chips", "patties"]
+// for(var i=0;i<a.length;i++){
+// if(user==a[i]){
+
+// document.write(a[i].indexOf(user[i])+"yes")
+
+// }
+
+
+// }
