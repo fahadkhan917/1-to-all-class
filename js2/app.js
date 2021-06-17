@@ -561,3 +561,14 @@
 
 // var nu=Math.random().toFixed(1)*100;
 // document.write(nu)
+
+
+// Write a program that asks the user about his weight. Parse
+// the user input and display his weight in your browser.
+// Possible user inputs can be:
+
+
+
+// var user=prompt("enter the weight")
+// var par=parseInt(user)
+// document.write(par)
