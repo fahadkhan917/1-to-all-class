@@ -521,3 +521,14 @@
 
 
 
+// Write a program that simulates a dice using random()
+// method of JS Math class. Display the value of dice in your
+// browser.:
+
+
+// var num='5';
+// var ran=Math.random(num).toFixed(1)*10;
+// document.write(ran)
+
+
+
