@@ -410,11 +410,47 @@
 // table at the end of this document.
 
 
-var usr=prompt("enter the user");
-for(var i=0;i<usr.length;i++){
-if(usr.charCodeAt(i)>=97&&usr.charCodeAt(i)<=122||usr.charCodeAt(i)>48&&usr.charCodeAt(i)<57){
+// var usr=prompt("enter the user");
+// if(usr.length>6){
 
-document.write("yes")
+//     for(var i=0;i<usr.length;i++){
+//         if((usr.charCodeAt(i)>=97&&usr.charCodeAt(i)<=122)||(usr.charCodeAt(i)>48&&usr.charCodeAt(i)<57)&&(usr.length==6)){
+        
+//         document.write("yes")
+        
+//         }
 
-}
-}
+// }
+
+
+// // else if(){
+
+// // document.write("lenght is okay")
+
+// // }
+
+// }
+
+
+// Write a program to convert the following string to an
+// array using string split method.
+// var university = “University of Karachi”;
+// Display the elements of array in your browser.
+
+
+// var names="university of karachi";
+// var b=names.split('')
+// for(var i=0;i<names.length;i++){
+
+// document.write("<br>"+b[i])
+
+
+
+
+// }
+
+
+
+// Write a program to display the last character of a user
+// input.
+
