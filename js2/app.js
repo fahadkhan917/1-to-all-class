@@ -489,3 +489,35 @@
 // document.write(cei+"<br>")
 
 
+
+// Write a program that takes a negative floating point
+// number from user & display the following in your browser.
+// a. number
+// b. round off value of the number
+// c. floor value of the number
+// d. ceil value of the number
+
+
+// var number=-2.673
+// document.write(number+"<br>")
+// var roundoff=Math.round(number)
+// document.write(roundoff+"<br>")
+// var floor=Math.floor(number)
+// document.write(floor+"<br>")
+// var cei=Math.ceil(number)
+// document.write(cei+"<br>")
+
+
+
+// Write a program that displays the absolute value of a
+// number.
+// E.g. absolute value of -4 is 4 & absolute value of 5 is 5
+
+
+
+// var nu=-4;
+// var ch=Math.abs(nu)
+// document.write(ch)
+
+
+
