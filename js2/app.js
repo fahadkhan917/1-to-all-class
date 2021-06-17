@@ -454,3 +454,20 @@
 // Write a program to display the last character of a user
 // input.
 
+
+// var user=prompt("enter the user")
+// var str=user[user.length-1]
+// document.write(str)
+
+
+
+// You have a string “The quick brown fox jumps over the
+// lazy dog”. Write a program to count number of
+// occurrences of word “the” in given string.
+
+
+// var word="the quick brown fox jumps over the lazy dog";
+// var match=word.match(/the/g).length
+// document.write(match)
+
+
