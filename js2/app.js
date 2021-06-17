@@ -572,3 +572,18 @@
 // var user=prompt("enter the weight")
 // var par=parseInt(user)
 // document.write(par)
+
+
+// Write a program that stores a random secret number from
+// 1 to 10 in a variable. Ask the user to input a number
+// between 1 and 10. If the user input equals the secret
+// number, congratulate the user.
+
+// var num=Math.floor(Math.random()*10);
+// var user=prompt("enter the user")
+// if(user==num){
+
+
+// document.write("congratulate the user")
+
+// }
