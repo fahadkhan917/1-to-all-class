@@ -555,3 +555,9 @@
 // }
 
 
+// Write a program that shows a random number between 1
+// and 100 in your browser.
+
+
+// var nu=Math.random().toFixed(1)*100;
+// document.write(nu)
