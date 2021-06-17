@@ -471,3 +471,21 @@
 // document.write(match)
 
 
+// 1. Write a program that takes a positive integer from user &
+// display the following in your browser.
+// a. number
+// b. round off value of the number
+// c. floor value of the number
+// d. ceil value of the number*/
+
+
+// var number=3.45214
+// document.write(number+"<br>")
+// var roundoff=Math.round(number)
+// document.write(roundoff+"<br>")
+// var floor=Math.floor(number)
+// document.write(floor+"<br>")
+// var cei=Math.ceil(number)
+// document.write(cei+"<br>")
+
+
