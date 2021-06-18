@@ -587,3 +587,34 @@
 // document.write("congratulate the user")
 
 // }
+
+
+
+// Write a program that displays current date and time in
+// your browser.
+
+
+// var a=new Date();
+// document.write(a)
+
+
+
+// Write a program that alerts the current month in words.
+// For example December.
+
+
+// var a=new Date();
+// var gets=a.getMonth();
+// var month=["","jan","feb","mar","may","june","july"];
+// document.write(month[gets])
+
+
+
+// Write a program that alerts the first 3 letters of the current
+// day, for example if today is Sunday then alert will show sun.
+
+
+// var a=new Date();
+// var gets=a.getDay();
+// var dys=["sun","mon","tue","wed","thu","fri","sat"]
+// document.write(dys[gets])
