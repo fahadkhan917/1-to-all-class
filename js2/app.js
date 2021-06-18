@@ -633,3 +633,21 @@
 
 // }
 
+
+// Write a program that shows the message “First fifteen
+// days of the month” if the date is less than 16th of the month
+// else shows “Last days of the month”.
+
+
+// var a=new Date();
+// var da=a.getDate();
+// if(da<15){
+
+// document.write("first fifteen days")
+
+// }
+// else if(da>15){
+
+// document.write("last fifteen days")
+
+// }
