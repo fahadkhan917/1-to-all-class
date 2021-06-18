@@ -618,3 +618,18 @@
 // var gets=a.getDay();
 // var dys=["sun","mon","tue","wed","thu","fri","sat"]
 // document.write(dys[gets])
+
+
+
+// Write a program that displays a message “It’s Fun day” if
+// its Saturday or Sunday today
+
+
+// var a=new Date();
+// var dys=a.getDay();
+// if(dys==0||dys==6){
+
+// document.write("Its fun day")
+
+// }
+
