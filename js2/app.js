@@ -790,3 +790,50 @@
 // document.write(tota+late)
 
 // }
+
+
+// Write a function that displays current date & time in your 
+// browser.
+
+
+// function abc(){
+
+// var a=new Date()
+// document.write(a)
+
+// }
+
+// abc()
+
+
+// Write a function that takes first & last name and then it
+// greets the user using his full name
+
+
+// abc=()=>{
+
+// var fir="fahad"
+// var las="khan"
+// var full=fir+las
+// document.write(full)
+
+// }
+
+// abc()
+
+
+
+// Write a function that adds two numbers (input by user)
+// and returns the sum of two numbers
+
+
+abc=()=>{
+
+
+
+
+
+}
+
+
+abc()
