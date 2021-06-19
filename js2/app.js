@@ -673,16 +673,25 @@
 
 
 
-var a=new Date();
-var ti=a.getHours();
-if(ti<12){
+// var a=new Date();
+// var ti=a.getHours();
+// if(ti<12){
 
-document.write("Its Am")
+// document.write("Its Am")
 
-}
-else{
+// }
+// else{
 
-document.write("Its PM")
+// document.write("Its PM")
 
-}
+// }
 
+
+
+// Write a program that creates a Date object for the last day
+// of the last month of 2020 and assigns it to variable named
+// laterDate.
+
+
+// var a=new Date("2020/12/31")
+// document.write(a)
