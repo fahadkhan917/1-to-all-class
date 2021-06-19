@@ -657,3 +657,12 @@
 // midnight, Jan. 1, 1970 and assigns it to a variable that
 // hasn't been declared beforehand. Use any variable you like
 // to represent the Date object.
+
+
+
+var a=new Date();
+document.write(a+"<br>")
+var mili=a.getTime();
+document.write("Elapsed miliiseconds since jan"+mili+"<br>")
+var min=a.getTime()/(1000*60)
+document.write(min)
