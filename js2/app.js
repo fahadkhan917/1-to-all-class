@@ -740,3 +740,53 @@
 // document.write(a+"<br>");
 // var cen=new Date(a.getTime()-(1000*60*60*24*365.25*100))
 // document.write(cen)
+
+
+// Write a program to ask the user about his age. Calculate
+// and show his birth year in your browser.
+
+
+// var user=prompt("enter the user age")
+// var a=new Date();
+// var birt=new Date(a.getTime()-(1000*60*60*24*365.25*user))
+// document.write(birt)
+
+
+// var user=prompt("enter the user age")
+// var a=new Date();
+// var bir=new Date(a.getTime()-1000*60*60*24*365.25*user)
+// document.write(bir)
+
+
+// Write a program to generate your K-Electric bill in your
+// browser. All the amounts should be rounded off to 2
+// decimal places. Display the following fields:
+// a. Customer Name
+// b. Current Month
+// DATE METHODS | JAVASCRIPT
+// Page 5 of 5
+// c. Number of units
+// d. Charges per unit
+// e. Net Amount Payable (within Due Date)
+// f. Late Payment Surcharge
+// g. Gross Amount Payable (after Due Date)
+// Where,
+
+
+// var a=new Date();
+// var user=prompt("enter the customer name")
+// document.write("Customer name :"+user+"<br>")
+// var mo=["jan","feb","marach","april","may","june","july","aug","sept","oct","nov"]
+// var getmo=a.getMonth();
+// document.write("Month :"+mo[getmo]+"<br>")
+// var num_of_unit=410;
+// var chrge_per_unit=16;
+// var tota=num_of_unit*chrge_per_unit;
+// var late=350;
+// document.write("Net Amount Payable(with duedate) :"+tota+"<br>")
+// var dat=a.getDay()
+// if(dat<15){
+
+// document.write(tota+late)
+
+// }
