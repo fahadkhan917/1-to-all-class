@@ -716,3 +716,27 @@
 // var cur=new Date();
 // var total= parseInt((cur.getTime() - pre.getTime())/(1000));
 // document.write(total)
+
+
+
+// Create a Date object for the current date and time.
+// Extract the hours, reset the date object an hour ahead and
+// finally display the date object in your browser.
+
+
+
+// var a=new Date();
+// var nex=new Date(a.getTime()-(1000*60*60))
+// document.write(nex)
+
+
+
+// Write a program that creates a date object and show the
+// date in an alert box that is reset to 100 years back?
+
+
+
+// var a=new Date();
+// document.write(a+"<br>");
+// var cen=new Date(a.getTime()-(1000*60*60*24*365.25*100))
+// document.write(cen)
