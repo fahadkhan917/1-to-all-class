@@ -660,9 +660,29 @@
 
 
 
+// var a=new Date();
+// document.write(a+"<br>")
+// var mili=a.getTime();
+// document.write("Elapsed miliiseconds since jan"+mili+"<br>")
+// var min=a.getTime()/(1000*60)
+// document.write(min)
+
+
+// Write a program that tests whether it's before noon and
+// alert “Its AM” else “its PM”.
+
+
+
 var a=new Date();
-document.write(a+"<br>")
-var mili=a.getTime();
-document.write("Elapsed miliiseconds since jan"+mili+"<br>")
-var min=a.getTime()/(1000*60)
-document.write(min)
+var ti=a.getHours();
+if(ti<12){
+
+document.write("Its Am")
+
+}
+else{
+
+document.write("Its PM")
+
+}
+
