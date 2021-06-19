@@ -706,3 +706,13 @@
 // var cur=new Date();
 // var total= parseInt((cur.getTime() - pre.getTime())/(1000*60*60*24));
 // document.write(total)
+
+
+// Write a program that displays in your browser the
+// seconds that elapsed between the reference date and the
+// beginning of 2015.
+
+// var pre=new Date("2015/06/18")
+// var cur=new Date();
+// var total= parseInt((cur.getTime() - pre.getTime())/(1000));
+// document.write(total)
