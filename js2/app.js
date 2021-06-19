@@ -695,3 +695,14 @@
 
 // var a=new Date("2020/12/31")
 // document.write(a)
+
+
+// Create a date object of the starting date of this Ramadan
+// and alert the number of days past since 1st Ramadan?
+// Note: 1st Ramadan was on June 18, 2015
+
+
+// var pre=new Date("2015/06/18")
+// var cur=new Date();
+// var total= parseInt((cur.getTime() - pre.getTime())/(1000*60*60*24));
+// document.write(total)
