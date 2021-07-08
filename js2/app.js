@@ -847,37 +847,75 @@
 // show the desired result in your browser.
 
 
-function abc(num1,num2,opr){
+// function abc(num1,num2,opr){
 
-var result;
-if(opr=="+"){
+// var result;
+// if(opr=="+"){
 
 
-   result=num1+num2 
+//    result=num1+num2 
+// }
+
+
+// else if(opr=="-"){
+
+
+//     result=num1+num2 
+//  }
+
+//  else if(opr=="*"){
+
+
+//     result=num1+num2 
+//  }
+
+//  else if(opr=="/"){
+
+
+//     result=num1+num2 
+//  }
+
+//  return result;
+
+// }
+
+
+// document.write("the result is"+abc(7,5,'+'))
+
+
+// Write a function that squares its argument.
+
+
+// function abc(num){
+
+
+// document.write(num*num)
+
+
+// }
+
+
+// abc(6)
+
+
+// . Write a function that computes factorial of a number.
+
+
+var sum=0;
+function abc(num){
+
+
+   var fact;
+   for(var i=0;i<num;i++){ 
+ fact=num*i;
+ sum=sum+fact;
+
+   }
+  return sum;
 }
 
 
-else if(opr=="-"){
+document.write(abc(4));
 
 
-    result=num1+num2 
- }
 
- else if(opr=="*"){
-
-
-    result=num1+num2 
- }
-
- else if(opr=="/"){
-
-
-    result=num1+num2 
- }
-
- return result;
-
-}
-
-
-document.write("the result is"+abc(7,5,'+'))
