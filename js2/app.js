@@ -827,13 +827,57 @@
 // and returns the sum of two numbers
 
 
-abc=()=>{
+// abc=()=>{
+
+// var nu1=5;
+// var nu2=5;
+// var add=nu1+nu2;
+// return add;
 
 
 
+// }
 
+// document.write(abc())
+
+
+
+// Write a function that takes three arguments num1, num2
+// & operator & compute the desired operation. Return and
+// show the desired result in your browser.
+
+
+function abc(num1,num2,opr){
+
+var result;
+if(opr=="+"){
+
+
+   result=num1+num2 
+}
+
+
+else if(opr=="-"){
+
+
+    result=num1+num2 
+ }
+
+ else if(opr=="*"){
+
+
+    result=num1+num2 
+ }
+
+ else if(opr=="/"){
+
+
+    result=num1+num2 
+ }
+
+ return result;
 
 }
 
 
-abc()
+document.write("the result is"+abc(7,5,'+'))
