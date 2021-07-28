@@ -939,4 +939,64 @@
 // Write a function that take start and end number as inputs
 // & display counting in your browser.
 
+// function abc(){
 
+// var start=prompt("enter the start")
+// var end=prompt("enter the end")
+// for(var i=start;i<=end;i++){
+
+// document.write(i)
+
+// }
+
+// }
+
+
+// abc()
+
+
+
+// Write a nested function that computes hypotenuse of a
+// right angle triangle. 
+
+
+
+
+
+// function abc(b,p){
+
+
+// function sq(x){
+
+// return x*x;
+
+
+
+// }
+
+// resu=sq(b)+sq(p)
+// document.write(resu)
+
+// }
+
+// abc(4,5)
+
+
+// Write a function that calculates the area of a rectangle.
+//  A = width * height
+//  Pass width and height in following manner:
+// i. Arguments as value
+// ii. Arguments as variables
+
+
+
+function abc(width,height){
+
+
+
+
+
+}
+
+
+var
