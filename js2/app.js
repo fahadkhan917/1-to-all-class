@@ -901,21 +901,42 @@
 // . Write a function that computes factorial of a number.
 
 
-var sum=0;
-function abc(num){
+// var sum=0;
+// function abc(num){
 
 
-   var fact;
-   for(var i=0;i<num;i++){ 
- fact=num*i;
- sum=sum+fact;
+//    var fact;
+//    for(var i=0;i<num;i++){ 
+//  fact=num*i;
+//  sum=sum+fact;
 
-   }
-  return sum;
-}
+//    }
+//   return sum;
+// }
 
 
-document.write(abc(4));
+// document.write(abc(4));
 
+// var sum=0;
+// function abc(num){
+
+
+//   var fact;
+//   for(var i=0;i<num;i++){
+//    fact=num*i;
+//    sum=sum+fact;
+
+
+//   }
+// return sum;
+
+// }
+
+
+// document.write(abc(4))
+
+
+// Write a function that take start and end number as inputs
+// & display counting in your browser.
 
 
