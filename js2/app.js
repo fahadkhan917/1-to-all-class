@@ -990,13 +990,18 @@
 
 
 
-function abc(width,height){
+// function abc(width,height){
+
+// var area=width*height;
+// return area;
 
 
 
+// }
 
 
-}
+// var height=15;
+// var width=3;
 
-
-var
+// document.write("the area of the triangle"+abc(height,width))
+// document.write("the area of the triangle"+abc(4,4))
