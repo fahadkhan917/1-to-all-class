@@ -1066,3 +1066,29 @@
 
 
 // abc("fahad is very good boy")
+
+
+
+// Write a JavaScript function that accepts a string as a
+// parameter and find the longest word within the string.
+// EXAMPLE STRING : 'Web Development Tutorial'
+// EXPECTED OUTPUT : 'Development'
+
+// function abc(word){
+
+// var br=word.split(' ');
+// var res=word[0]
+// for(var i=0;i<br.length;i++){
+
+// if(res.length<br[i].length){
+
+// res=br[i]
+
+// }
+
+// }
+// document.write(res)
+
+// }
+
+// abc('Web Development Tutorial')
