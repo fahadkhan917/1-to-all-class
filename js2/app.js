@@ -1013,31 +1013,56 @@
 // string is palindrome or not?
 
 
-function abc(word){
+// function abc(word){
 
-var newstr="";
-for(var i=word.length-1;i>=0;i--){
-
-
-newstr+=word[i];
-
-}
-
-if(word===newstr){
-
-document.write("yes")
-
-}
-else{
-
-document.write("sorry")
-
-}
+// var newstr="";
+// for(var i=word.length-1;i>=0;i--){
 
 
+// newstr+=word[i];
 
-}
+// }
+
+// if(word===newstr){
+
+// document.write("yes")
+
+// }
+// else{
+
+// document.write("sorry")
+
+// }
 
 
 
-abc("madam")
+// }
+
+
+
+// abc("madam")
+
+
+
+// Write a JavaScript function that accepts a string as a
+// parameter and converts the first letter of each word of the
+// string in upper case.
+
+
+// function abc(word){
+
+
+//     var a=word.split(' ');
+ 
+//     for(var i=0;i<a.length;i++){
+
+//   a[i]=a[i].charAt(0).toUpperCase()+a[i].slice(1)
+
+//     }
+// document.write(a)
+
+
+// }
+
+
+// abc("fahad is very good boy")
