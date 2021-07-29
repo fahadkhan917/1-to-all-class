@@ -1005,3 +1005,39 @@
 
 // document.write("the area of the triangle"+abc(height,width))
 // document.write("the area of the triangle"+abc(4,4))
+
+
+
+
+// Write a JavaScript function that checks whether a passed
+// string is palindrome or not?
+
+
+function abc(word){
+
+var newstr="";
+for(var i=word.length-1;i>=0;i--){
+
+
+newstr+=word[i];
+
+}
+
+if(word===newstr){
+
+document.write("yes")
+
+}
+else{
+
+document.write("sorry")
+
+}
+
+
+
+}
+
+
+
+abc("madam")
