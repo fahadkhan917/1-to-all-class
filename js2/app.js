@@ -1236,3 +1236,33 @@
 // marks. there should be 3 functions one is the mainFunction
 // and other are for average and percentage. Call those functions
 // from mainFunction and display result in mainFunction.
+
+// var mark=prompt("enter the mark")
+
+// function ave(mark){
+
+//     var b=(mark/3);
+//     document.write(b+"<br>")
+
+
+// }
+
+// function per(mark){
+// var c=(mark/300)*100;
+// document.write(c)
+
+
+// }
+
+
+
+
+
+// ave(mark)
+// per(mark)
+
+// 5. You have learned the function indexOf. Code your own custom
+// function that will perform the same functionality. You can code
+// for single character as of now.
+
+
