@@ -1304,48 +1304,83 @@
 // For example, in the sentence
 
 
-var a=prompt("enter the words")
-var found=0;
-function isvowel(ch){
+// var a=prompt("enter the words")
+// var found=0;
+// function isvowel(ch){
 
-switch(ch){
+// switch(ch){
 
-    case 'A':
-        case 'a':
-        case 'E':
-        case 'e':
-        case 'I':
-        case 'i':
-        case 'O':
-        case 'o':
-        case 'U':
-        case 'u':
-       return true;
+//     case 'A':
+//         case 'a':
+//         case 'E':
+//         case 'e':
+//         case 'I':
+//         case 'i':
+//         case 'O':
+//         case 'o':
+//         case 'U':
+//         case 'u':
+//        return true;
 
-       default:
-           return false;
+//        default:
+//            return false;
   
-}
+// }
 
 
 
-}
+// }
 
-for(i=0;i<a.length;i++){
+// for(i=0;i<a.length;i++){
 
-if(isvowel(a[i])){
-found++;
-}
+// if(isvowel(a[i])){
+// found++;
+// }
 
-else{
+// else{
 
-found=0;
+// found=0;
 
-}
-if(found==2){
+// }
+// if(found==2){
 
-document.write(a[i-1], a[i]+"<br>")
+// document.write(a[i-1], a[i]+"<br>")
 
-}
-}
+// }
+// }
 
+// The distance between two cities (in km.) is input through the
+// keyboard. Write four functions to convert and print this
+// distance in meters, feet, inches and centimeters
+
+
+// var dis=prompt("enter the distance")
+// function mete(dis){
+// var me=dis/1000;
+// document.write(me)
+
+
+// }
+// function feet(dis){
+
+//     var fe=dis/3280;
+//     document.write(fe)
+    
+// }
+// function inch(dis){
+
+//     var inc=dis/39370;
+//     document.write(inc)
+    
+// }
+// function centi(dis){
+
+// var cen=dis/100000;
+// document.write(cen)
+    
+// }
+
+// mete(dis)
+// feet(dis)
+// inch(dis)
+// centi(dis)
