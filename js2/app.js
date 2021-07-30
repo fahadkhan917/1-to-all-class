@@ -1147,7 +1147,7 @@
 
 
 // }
-// document.write("Circumference circle"+calcir(5))
+// document.warite("Circumference circle"+calcir(5))
 
 // function calArea(rad){
 
@@ -1158,3 +1158,19 @@
 
 
 // document.write("Area of circle"+calArea(5))
+
+
+
+// Write a custom function power ( a, b ), to calculate the value of
+// a raised to b
+
+
+function abc(a,b){
+
+
+
+    
+}
+
+
+abc(2,4);
