@@ -1266,21 +1266,34 @@
 // for single character as of now.
 
 
-function abc(){
+// function abc(){
     
-    var a=prompt("enter the name")
-  for(var i=1;i<a.length;i++){
+//     var a=prompt("enter the name")
+//   for(var i=1;i<a.length;i++){
 
-if(a[i]==="a"){
+// if(a[i]==="a"){
 
-document.write("index of "+i+"<br>")
-}
+// document.write("index of "+i+"<br>")
+// }
 
 
-  }
+//   }
  
 
-}
+// }
 
 
-abc();
+// abc();
+
+
+// Write a function to delete all vowels from a sentence. Assume
+// that the sentence is not more than 25 characters long.
+
+
+
+
+// function removeVowels(str) {
+//     return str.replace(/[aeiou]/gi, '');
+//   }
+
+//  document.write(removeVowels("fahad"))
