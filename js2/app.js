@@ -1398,3 +1398,25 @@
 // document.write("the total 50 notes"+(a%100)/50)
 // document.write("the total 10 notes"+((a%100)%50)/10)
 
+
+// Show an alert box on click on a link.
+
+// function abc(){
+
+
+// alert("hellow")
+
+// }
+
+
+// Display some Mobile images in browser. On click on an
+// image Show the message in alert to user.
+
+
+// function abc(){
+
+
+// alert("yes")
+
+
+// }
