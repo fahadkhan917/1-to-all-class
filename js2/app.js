@@ -1202,3 +1202,30 @@
 // }
 
 // abc()
+
+
+// If the lengths of the sides of a triangle are denoted by a, b, and
+// c, then area of triangle is given by
+// area = S(S − a)(S − b)(S − c)
+// where, S = ( a + b + c ) / 2
+// Calculate area of triangle using 2 functions
+
+
+// function area(a,b,c){
+
+// var area=(cal(a,b,c)*(cal(a,b,c)-a)*(cal(a,b,c)-b)*(cal(a,b,c)-c))
+// document.write(area)
+
+// }
+
+
+// function cal(a,b,c){
+
+//     var s=((a+b+c)/2)
+//     return s;
+
+
+// }
+
+// cal(2,3,4)
+// area(2,3,4)
