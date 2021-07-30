@@ -1139,16 +1139,22 @@
 // • Calculate the area based on the radius, and output "The area
 // is NN".
 
-function calcir(){
+// function calcir(rad){
+
+// var pi=3.14;
+// var ci=2*pi*rad
+// return ci;
 
 
+// }
+// document.write("Circumference circle"+calcir(5))
 
-}
+// function calArea(rad){
+
+// var pi=3.14;
+// var area=pi*rad*rad
+// return area;
+// }
 
 
-function calArea(){
-
-
-
-}
-
+// document.write("Area of circle"+calArea(5))
