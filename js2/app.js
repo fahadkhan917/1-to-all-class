@@ -1266,3 +1266,22 @@
 // for single character as of now.
 
 
+// function abc(){
+//     var count=0;
+//     var a=prompt("enter the name")
+//   for(var i=1;i<a.length;i++){
+
+// if(a[i]==="a"){
+// count++;
+
+
+// }
+
+
+//   }
+//   document.write(count)
+
+// }
+
+
+// abc();
