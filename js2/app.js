@@ -1165,12 +1165,17 @@
 // a raised to b
 
 
-function abc(a,b){
+// function abc(a,b){
+
+// var val=a;
+// for(var i=1;i<b;i++){
+
+// val=val*a
+
+// }
+
+// document.write(val)
+// }
 
 
-
-    
-}
-
-
-abc(2,4);
+// abc(2,4);
