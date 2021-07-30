@@ -1179,3 +1179,26 @@
 
 
 // abc(2,4);
+
+
+
+// Any year is entered through the keyboard. Write a function to
+// determine whether the year is a leap year or not.
+
+
+// function abc(){
+
+// var a=prompt("enter the year")
+// if(a%4==0){
+
+// document.write("its a leap year")
+
+// }
+// else{
+
+// document.write("sorry")
+
+// }
+// }
+
+// abc()
