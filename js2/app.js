@@ -1092,3 +1092,37 @@
 // }
 
 // abc('Web Development Tutorial')
+
+
+
+
+// Write a JavaScript function that accepts two arguments, a
+// string and a letter and the function will count the number of
+// occurrences of the specified letter within the string.
+// Sample arguments : 'JSResourceS.com', 'o'
+
+
+
+// function abc(word,find){
+
+// var count=0;
+// for(var i=0;i<word.length;i++){
+
+// if(word.charAt(i)===find){
+
+
+// count++;
+
+// }
+
+
+// }
+// document.write(count)
+
+
+// }
+
+
+
+// abc("JSResourceS.com",'o')
+
