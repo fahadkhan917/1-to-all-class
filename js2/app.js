@@ -1422,11 +1422,11 @@
 // }
 
 
-function abcd(row){
+// function abcd(row){
 
-var d=row.parentNode.parentNode.rowIndex;
-document.getElementById("fahad").deleteRow(d)
+// var d=row.parentNode.parentNode.rowIndex;
+// document.getElementById("fahad").deleteRow(d)
 
-}
+// }
 
 
