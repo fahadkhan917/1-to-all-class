@@ -1429,4 +1429,11 @@
 
 // }
 
+var click=0;
+function myfunction(){
 
+click=+1;
+document.getElementById("demo").innerHTML=click;
+
+
+}
