@@ -1429,11 +1429,18 @@
 
 // }
 
-var click=0;
-function myfunction(){
+// var click=0;
+// function myfunction(){
 
-click=+1;
-document.getElementById("demo").innerHTML=click;
+// click=+1;
+// document.getElementById("demo").innerHTML=click;
 
+
+// }
+
+
+function abc(){
+
+alert("hellow")
 
 }
